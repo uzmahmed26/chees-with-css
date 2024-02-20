@@ -1,0 +1,201 @@
+body{
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 30px;
+    
+  
+}
+.black{
+    background-color: black;
+    width: 180px;
+    height: 170px;
+    display: inline-block;
+   
+}
+.white{
+    background-color: white;
+    width: 180px;
+    height: 170px;
+   display: inline-block;
+}
+#one{
+    position:absolute;
+    top: 20px;
+    right:790px;
+  
+}
+#two{
+    position:absolute;
+    top: 20px;
+    right:600px;
+}
+#three{
+    position:absolute;
+    top: 30px;
+    right:60px;
+}
+#four{
+    position:absolute;
+    top: 30px;
+    left:70px;
+}
+#five{
+    position:absolute;
+    top: 30px;
+    left:250px;
+}
+#six{
+    position:absolute;
+    top: 30px;
+    right:250px;
+}
+#seven{
+    position:absolute;
+    top: 30px;
+    right:980px;
+}
+#eight{
+    position:absolute;
+    top: 30px;
+    right:430px;
+}
+#nine{
+    position:absolute;
+    top: 200px;
+    right:430px;
+}
+#ten{
+    position:absolute;
+    top: 200px;
+    right:620px;
+}
+
+#eleven{
+    position:absolute;
+    top: 200px;
+    right:60px;
+}
+
+#twelve{
+    position:absolute;
+    top: 200px;
+    left:250px;
+}
+
+#thirteen{
+    position:absolute;
+    top: 200px;
+    left:70px;
+}
+
+#fourteen{
+    position:absolute;
+    top: 200px;
+    right:800px;
+}
+#fifteen{
+    position:absolute;
+    top: 200px;
+    right:990px;
+}
+#sixteen{
+    position:absolute;
+    top: 200px;
+    right:240px;
+}
+
+#wone{
+    position: absolute;
+    top:880px;
+    right: 610px;
+}
+#wtwo{
+    position: absolute;
+    top: 880px;
+    right: 790px;
+}
+#wthree{
+    position: absolute;
+    top: 900px;
+    right: 250px;
+}
+#wfour{
+    position: absolute;
+    top: 900px;
+    left: 250px;
+
+}
+#wfive{
+    position: absolute;
+    top: 880px;
+    right: 420px;
+}
+#wsix{
+    position: absolute;
+    top:880px;
+    left: 430px;
+}
+#wseven{
+    position: absolute;
+    top: 880px;
+    right: 40px;
+    
+}
+#weight{
+    position: absolute;
+    top: 900px;
+    left: 60px;
+}
+#wnine{
+    position: absolute;
+    top: 730px;
+    right: 250px;
+}
+#wten{
+    position: absolute;
+    top: 730px;
+    right: 440px;
+}
+#weleven{
+    position: absolute;
+    top: 730px;
+    right: 610px;
+}
+#wtwelve{
+    position: absolute;
+    top: 730px;
+    right: 800px;
+}
+#wthirteen{
+    position: absolute;
+    top: 730px;
+    left: 70px;
+}
+#wfourteen{
+    position: absolute;
+    top: 730px;
+    left: 260px;
+}
+#wfifteen{
+    position: absolute;
+    top: 730px;
+    left: 440px;
+}
+#wsixteen{
+    position: absolute;
+    top: 730px;
+    right: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
